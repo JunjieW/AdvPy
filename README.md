@@ -1,1 +1,1 @@
-### Adv Python Lecture Exersices & Labs
+### Adv Python Lecture Exercises & Labs
